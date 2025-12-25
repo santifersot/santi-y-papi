@@ -1,0 +1,8 @@
+{
+  "name": "Fitnavi - AI Personalized Fitness",
+  "description": "An AI-powered fitness companion that generates personalized workout plans, analyzes nutrition, and provides real-time coaching via Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
